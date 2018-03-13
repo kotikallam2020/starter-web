@@ -17,3 +17,6 @@ yes we  deploy every time only when we make some chjanges
 ## Support
 
 We don't need the support for tjhis site.
+
+## Copyright
+All rights reserved
